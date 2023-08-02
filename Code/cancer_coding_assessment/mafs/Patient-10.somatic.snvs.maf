@@ -1,0 +1,15 @@
+Hugo_Symbol	Chromosome	Start_position	End_position	Variant_Classification	Variant_Type	Reference_Allele	Tumor_Seq_Allele1	Tumor_Seq_Allele2	Tumor_Sample_Barcode	Matched_Norm_Sample_Barcode	Protein_Change	t_alt_count	t_ref_count
+PHF3	6	64395823	64395823	Missense_Mutation	SNP	A	A	G	Patient-10-Tumor	Patient-10-Normal	p.M734V	6	134
+PTPRN	2	220162112	220162112	Missense_Mutation	SNP	C	C	T	Patient-10-Tumor	Patient-10-Normal	p.R644Q	3	27
+ALDH1L2	12	105433542	105433542	Missense_Mutation	SNP	C	C	T	Patient-10-Tumor	Patient-10-Normal	p.R665H	5	219
+POTEC	18	14513675	14513675	Missense_Mutation	SNP	T	T	C	Patient-10-Tumor	Patient-10-Normal	p.K507E	4	115
+SSX2IP	1	85113204	85113204	Missense_Mutation	SNP	G	G	A	Patient-10-Tumor	Patient-10-Normal	p.A559V	6	257
+PDE5A	4	120481451	120481451	Splice_Site	SNP	C	C	T	Patient-10-Tumor	Patient-10-Normal	p.R400K	3	48
+ANKRD30A	10	37430948	37430948	Missense_Mutation	SNP	C	C	G	Patient-10-Tumor	Patient-10-Normal	p.P319A	5	217
+ZFHX3	16	72830417	72830417	Missense_Mutation	SNP	G	G	A	Patient-10-Tumor	Patient-10-Normal	p.P2055L	3	37
+MLLT3	9	20414280	20414280	Silent	SNP	G	G	A	Patient-10-Tumor	Patient-10-Normal	p.S188S	6	312
+PGK1	X	77380489	77380489	Missense_Mutation	SNP	C	C	A	Patient-10-Tumor	Patient-10-Normal	p.T352N	4	68
+ABCC12	16	48173244	48173244	Missense_Mutation	SNP	G	G	A	Patient-10-Tumor	Patient-10-Normal	p.L221F	4	86
+MCF2	X	138729028	138729028	Silent	SNP	C	C	T	Patient-10-Tumor	Patient-10-Normal	p.T20T	3	14
+ZNF737	19	20728254	20728254	Missense_Mutation	SNP	C	C	G	Patient-10-Tumor	Patient-10-Normal	p.S252T	3	42
+BDP1	5	70811910	70811910	Nonsense_Mutation	SNP	C	C	T	Patient-10-Tumor	Patient-10-Normal	p.Q1558*	3	24

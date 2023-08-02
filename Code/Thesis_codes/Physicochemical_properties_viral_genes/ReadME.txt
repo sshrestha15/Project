@@ -1,0 +1,1 @@
+1. To calculate the physiochemical properties, a fasta file should be used.2. Write the name of the fasta file.3. Merge.py will merge all the result.   
